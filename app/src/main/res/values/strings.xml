@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">project version-0.0</string>
+    <string name="logo_name">get a way</string>
+    <string name="slogan_name">Recycle  |  Rebuild  |  Reuse</string>
+    <string name="first_slide_title">Recycle  |  Rebuild  |  Reuse</string>
+    <string name="second_slide_title">Lets get started</string>
+
+
+    //description
+    <string name="first_slide_desc">Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it is the only thing that ever has.</string>
+    <string name="second_slide_desc">We will handle everything for you.As you have this app in your pocket we will help
+    you to make this world a better place to live</string>
+    <string name="recycle_rebuild_reuse">Recycle | Rebuild | Reuse</string>
+    <string name="title_activity_buy_sell">Buy_Sell</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_user_bs">user_activity_b_s</string>
+    <string name="e_waste_lots">E-Waste Lots</string>
+
+</resources>
